@@ -1,5 +1,5 @@
 # EOB-ESGB-3PN
-EOB potentials at 3PN in ST and ESGB gravity. This Mathematica notebook is the supplemental material to the paper:
+EOB potentials at 3PN in ST and ESGB gravity. This Mathematica notebook is a supplemental material to the paper:
 
 Félix-Louis Julié, Vishal Baibhav, Emanuele Berti, Alessandra Buonanno, "Third post-Newtonian effective-one-body Hamiltonian in scalar-tensor and Einstein-scalar-Gauss-Bonnet gravity" [[2212.13802]](https://arxiv.org/abs/2212.13802).
 
