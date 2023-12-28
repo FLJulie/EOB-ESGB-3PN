@@ -16,5 +16,4 @@ If you use this material, please cite our paper with the following BibTeX inform
     volume = "107",
     number = "10",
     pages = "104044",
-    year = "2023"
-}
+    year = "2023"}
