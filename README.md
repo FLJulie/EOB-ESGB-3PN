@@ -5,12 +5,16 @@ Félix-Louis Julié, Vishal Baibhav, Emanuele Berti, Alessandra Buonanno, "Third
 
 If you use this material, please cite our paper with the following BibTeX information:
 
-    @article{Julie:2022qux,  
-        author = "Juli\'e, F\'elix-Louis and Baibhav, Vishal and Berti, Emanuele and Buonanno, Alessandra",  
-        title = "{Third post-Newtonian effective-one-body Hamiltonian in scalar-tensor and Einstein-scalar-Gauss-Bonnet gravity}",  
-        eprint = "2212.13802",  
-        archivePrefix = "arXiv",  
-        primaryClass = "gr-qc",  
-        month = "12",  
-        year = "2022". 
-    }
+    @article{Julie:2022qux,
+    author = "Juli\'e, F\'elix-Louis and Baibhav, Vishal and Berti, Emanuele and Buonanno, Alessandra",
+    title = "{Third post-Newtonian effective-one-body Hamiltonian in scalar-tensor and Einstein-scalar-Gauss-Bonnet gravity}",
+    eprint = "2212.13802",
+    archivePrefix = "arXiv",
+    primaryClass = "gr-qc",
+    doi = "10.1103/PhysRevD.107.104044",
+    journal = "Phys. Rev. D",
+    volume = "107",
+    number = "10",
+    pages = "104044",
+    year = "2023"
+}
